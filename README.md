@@ -8,7 +8,7 @@ Situs web ini adalah sebuah situs web yang bertujuan untuk memperkenalkan dunia 
 
 Situs web dapat diakses di kosmoskita.my.id
 
-#### Apakah saya dapat menghubungi pengelola stius web?
+#### Apakah saya dapat menghubungi pengelola situs web?
 
 Tentu saja!
 
@@ -20,7 +20,7 @@ Tentu saja!
 
 #### E-mail
 
-anshafarell@gmail.com and ananda20004@mail.unpad.ac.id
+anshafarell@gmail.com dan ananda20004@mail.unpad.ac.id
 
 #### Instagram
 
