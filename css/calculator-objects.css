@@ -1,0 +1,29 @@
+#converter {
+    max-width: 600px; /* Set max-width for the calculator */
+    margin: 0 auto;
+}
+.input-row,
+.output-row {
+    display: flex;
+    margin-bottom: 10px;
+    border: 1px solid #A1A1A1; /* Set border color */
+    border-radius: 5px; /* Add border radius for better appearance */
+}
+.input-row select,
+.output-row select {
+    flex: 1;
+    padding: 8px; /* Increased padding for better spacing */
+    border: none;
+    background-color: #535C91;
+    color: white;
+    width: 30%; /* Set a fixed width for dropdowns */
+}
+.input-row input,
+.output-row p {
+    flex: 1;
+    padding: 8px; /* Increased padding for better spacing */
+    border: none;
+    background-color: white;
+    color: #535C91;
+    width: 70%; /* Set a larger width for input and output fields */
+}

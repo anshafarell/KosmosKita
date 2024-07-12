@@ -1,0 +1,10 @@
+.article-header {
+    text-align: center;
+}
+.article-image {
+    width: 100%;  /* Adjust the width to 100% of the container */
+    height: auto; /* Maintain the aspect ratio */
+}
+.article-content {
+    margin-top: 20px;
+}

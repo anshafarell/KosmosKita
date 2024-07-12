@@ -1,0 +1,14 @@
+.image-container {
+    text-align: center;
+    margin: 20px;
+}
+.image-container img {
+    width: 30%;
+    max-width: 500px;
+    height: auto;
+}
+.image-container figcaption {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #555;
+}

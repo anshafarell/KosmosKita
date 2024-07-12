@@ -1,0 +1,25 @@
+<?php
+            $title = ""; 
+            include 'head.php';
+        ?>
+
+<!-- Bagian Atas -->
+        <?php
+            $active = ""; 
+            $header_title = "";
+            $header_subtitle = "";
+            $header_image_credit = "";
+            $background_image_url = "/KosmosKita/";
+            include 'top.php';
+        ?>
+
+<!-- Bagian Bawah -->
+        <?php
+            $quote = "";
+            $name = "";
+            $year = "";
+            $occupation = "";
+            $credit = "";
+            $background_image_url = "/KosmosKita/";
+            include 'bottom.php';
+        ?>

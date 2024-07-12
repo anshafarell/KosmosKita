@@ -1,0 +1,22 @@
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    table-layout: fixed; /* Ensure table columns are fixed-width */
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    word-wrap: break-word; /* Ensure text wraps within cells */
+}
+th {
+    background-color: #f2f2f2;
+}
+.actions {
+    width: 20%; /* Fixed width for actions column */
+    text-align: center; /* Center the buttons */
+}
+.actions form {
+    display: inline; /* Ensure forms are inline */
+}
