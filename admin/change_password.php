@@ -9,7 +9,8 @@ if (!isset($_SESSION['loggedin'])) {
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $new_password = md5($_POST['new_password']);
-    $sql = "UPDATE users SET password='$new_password' WHERE username='admin'";
+    $username = $_SESSION['username'];
+    $sql = "UPDATE users SET password='$new_password' WHERE username='$username'";
 
     if ($conn->query($sql) === TRUE) {
         $message = "Password berhasil diubah!";

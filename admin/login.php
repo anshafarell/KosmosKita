@@ -40,13 +40,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <!-- Konten -->
     <section class="page-section portfolio" id="portfolio">
         <div class="container">
-            <h1>Masukkan Username dan Password</h1>
+            <h1>Masuk Sebagai Admin</h1>
             <hr>
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-7">
                     <br>
                     <br>
-                    <h6>Untuk masuk sebagai Admin dan mengakses fitur khusus Admin, silakan masukkan username dan password pada kolom yang tersedia di bawah ini.</h6>
+                    <h6>Silakan masukkan username dan password.</h6>
                     <form method="post" action="">
                         <div class="form-group">
                             <div class="form-row">
